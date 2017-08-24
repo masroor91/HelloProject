@@ -1,0 +1,12 @@
+{
+  "description": "Blank Project",
+  "version": "2016.2.6253.34394",
+  "main": "Main.xaml",
+  "id": "excel automation",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
